@@ -1,5 +1,4 @@
-### Hi there 👋
-___
+
 ### 👀 Interests 
 Domain : Media,  Broadcasting, Mental Health
 ___
