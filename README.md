@@ -1,5 +1,8 @@
 ### Hi there 👋
 ___
+### 👀 Interests 
+Domain : Media, Mental Health, Broadcasting
+___
 
 ### ✨ Tech
 ##### Programming Language
