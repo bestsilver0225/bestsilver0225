@@ -5,7 +5,11 @@
 - Yonsei University 인공지능융합 대학원 (2021.03. ~ 2023.02.) : M.S. in Digital Analytics
 
 
-I’m currently learning C# !
+### ✨ Tech
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 
 <!--
 **bestsilver0225/bestsilver0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
