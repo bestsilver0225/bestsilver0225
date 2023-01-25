@@ -1,7 +1,7 @@
 ### Hi there 👋
 ___
 ### 👀 Interests 
-Domain : Media, Mental Health, Broadcasting
+Domain : Media,  Broadcasting, Mental Health
 ___
 
 ### ✨ Tech
