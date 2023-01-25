@@ -7,8 +7,9 @@
 
 ### ✨ Tech
 Programming Language
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=#239120=white"/></a>
 
 <!--
 **bestsilver0225/bestsilver0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
