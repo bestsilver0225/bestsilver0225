@@ -9,7 +9,7 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bestsilver0225 &show_icons=true)
 
 <!--
 **bestsilver0225/bestsilver0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
