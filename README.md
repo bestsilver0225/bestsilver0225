@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### 😄 Education
-### - Sookmyung University (2012.03. ~ 2020.02.) : B.A. in Laws
-### - Yonsei University 인공지능융합 대학원 (2021.03. ~ 2023.02.) : M.S. in Digital Analytics
+- Sookmyung University (2012.03. ~ 2020.02.) : B.A. in Laws
+- Yonsei University 인공지능융합 대학원 (2021.03. ~ 2023.02.) : M.S. in Digital Analytics
 
 
 I’m currently learning C# !
