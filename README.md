@@ -6,10 +6,8 @@
 
 
 ### ✨ Tech
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bestsilver0225 &show_icons=true)
 
 <!--
 **bestsilver0225/bestsilver0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
